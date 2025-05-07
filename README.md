@@ -95,9 +95,9 @@ Intermediate checkpoints are saved every ~1/4 of an epoch.
 
 | Metric     | Pretrained (`xsum`) | Fine-Tuned (`CNN`) |
 |------------|---------------------|--------------------|
-| ROUGE-1    | ~25%                | ~37.6%             |
-| ROUGE-2    | ~8%                 | ~16.7%             |
-| ROUGE-L    | ~19%                | ~29.9%             |
+| ROUGE-1    | ~25%                | ~38.5%             |
+| ROUGE-2    | ~8%                 | ~17.1%             |
+| ROUGE-L    | ~19%                | ~27.2%             |
 
 > Fine-tuned model generates **longer and more contextually appropriate summaries** for CNN articles.
 
