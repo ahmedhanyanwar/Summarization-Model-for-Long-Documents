@@ -29,7 +29,9 @@ Summarization-Model-for-Long-Documents/
 ├── Abstractive_Summarization.ipynb
 |
 ├── README.md
+├── LICENSE.txt
 └── requirements.txt
+
 ```
 
 ---
