@@ -1,6 +1,7 @@
 models/distilbart_fine_tuned/
 models/distilbart/
 data/cnn_dailymail
+clean_from_colab.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
